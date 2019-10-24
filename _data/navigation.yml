@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: big ideas
+  - title: Creativity
     url: /publications/
 
-  - title: big ideas
+  - title: Abstraction
     url: /talks/    
 
-  - title: big ideas
-    url: /teaching/    
+  - title: Data and Information
+    url: /teaching/
     
-  - title: big ideas
+  - title: Algorithyms
     url: /portfolio/
         
-  - title: big ideas
+  - title: Programing
     url: /year-archive/
     
-  - title: big ideas
+  - title: The Internet
     url: /cv/
     
-  - title: big ideas
+  - title: Global Impact
     url: /markdown/
