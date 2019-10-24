@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: big ideas
     url: /publications/
 
-  - title: "Talks"
+  - title: big ideas
     url: /talks/    
 
-  - title: "Teaching"
+  - title: big ideas
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: big ideas
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: big ideas
     url: /year-archive/
     
-  - title: "CV"
+  - title: big ideas
     url: /cv/
     
-  - title: "Guide"
+  - title: big ideas
     url: /markdown/
